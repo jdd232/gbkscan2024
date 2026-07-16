@@ -1,6 +1,6 @@
 # gbkscan2024
 
-'gbkscan2024' is a bioinformatics tool designed to scan bacterial genomes for a user-specified putative promoter site.
+'gbkscan2024' is a bioinformatics tool designed to scan bacterial genomes for a user-specified predicted promoter site.
 It is optimized for searching for the WhiG promoter in Actinomycetota genomes to predict a phylum-wide WhiG regulon.
 
 ---
